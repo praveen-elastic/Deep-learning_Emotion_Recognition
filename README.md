@@ -1,4 +1,4 @@
-# Deep-learning_Emotion_Recognition
+# Emotion Recognition via Deep Learning
 
 This project aims to introduce feedback loops to Mental Health Treatment. Mental Health Professionals are often partaking in treatment that is open-loop, where the patient is regularly quizzed about his/her/their feelings/emotions in order to make informed decisions. In order to limit this phenomenon, we propose a system that aims at predicting the emotions of the patient via a Deep Neural Network trained over the raw EEG data obtained from EEG headsets.
 
